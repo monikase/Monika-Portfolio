@@ -1,5 +1,7 @@
 ## Monika's Portfolio
 
+Here I document a summary of my projects in the data field.
+
 | Project Link | Date | Tools | Project Description & Files |
 | :-------: | :-----: | :-----: | ----- |
 | [Funnel Analysis](https://docs.google.com/spreadsheets/d/1RABDCjpsUpbF2IJrgsjek5JKrH36rfo995JiZcc2lHA/edit?usp=sharing) | March 2025 | SQL, BigQuery, Google Spreadsheet | [Tracking Online Shopping](https://github.com/monikase/Data-Analytics-Projects/blob/b8178e85a9931511af2dad5ed202634ffa54a206/7-Funnel%20Analysis/1_Task.md) |
