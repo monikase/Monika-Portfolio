@@ -2,6 +2,7 @@
 
 | Project Link | Date | Tools | Project Description & Files |
 | ------- | ----- | ----- | ----- |
+| [Funnel Analysis](https://docs.google.com/spreadsheets/d/1RABDCjpsUpbF2IJrgsjek5JKrH36rfo995JiZcc2lHA/edit?usp=sharing) | March 2025 | SQL, BigQuery, Google Spreadsheet | [Tracking Online Shopping](https://github.com/monikase/Data-Analytics-Projects/blob/b8178e85a9931511af2dad5ed202634ffa54a206/7-Funnel%20Analysis/1_Task.md) |
 | [Retention, Cohort & Churn](https://docs.google.com/spreadsheets/d/1rUupRylEpHb4gzet9fhkJ3I1h27pNMVzXPU48Zscq5s/edit?usp=sharing) | February 2025 | SQL, BigQuery, Google Spreadsheet | [Analyzing subscription churn](https://github.com/monikase/Data-Analytics-Projects/blob/b8178e85a9931511af2dad5ed202634ffa54a206/6-Retention%2C%20Cohorts%20%26%20Churn/1_Task.md) |
 | [Communicating Data](https://my.visme.co/view/90deyd48-executive-summary#s1) | January 2025 | SQL, BigQuery, PowerBI, Visme | [Presentation & Soft Skills](https://github.com/monikase/Data-Analytics-Projects/blob/b8178e85a9931511af2dad5ed202634ffa54a206/5-Soft%20Skills%20PowerBI/1_Task.md) |
 | [Power BI Report](https://github.com/monikase/Data-Analytics-Projects/blob/b8178e85a9931511af2dad5ed202634ffa54a206/4-Visualizing%20Data%20Using%20Power%20BI/Dashboard.pdf) | December 2024 | SQL, BigQuery, PowerBI | [Visualizing Data Using Power BI](https://github.com/monikase/Data-Analytics-Projects/blob/b8178e85a9931511af2dad5ed202634ffa54a206/4-Visualizing%20Data%20Using%20Power%20BI/1_Task.md) |
