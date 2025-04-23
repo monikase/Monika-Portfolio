@@ -1,4 +1,4 @@
-## Monika's Portfolio
+## 📈 Monika's Portfolio
 
 Here I document a summary of my projects in the data field.
 
