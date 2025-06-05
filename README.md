@@ -4,6 +4,7 @@ Here I document a summary of my data analytics projects, during my study time at
 
 | Project Link | Date | Tools | Project Description |
 | :-------: | :-----: | :-----: | ----- |
+| [A/B Testing](https://github.com/monikase/Data-Analytics-Projects/tree/566f15db7b4f46604da88f260a6e4e56348dabdf/_10-AB%20Testing) | May 2025 | SQL, Evan Miller T-test calculator, Spreadsheets | This project analyzes the effectiveness of three fast-food marketing campaigns for a new menu item using A/B testing and statistical comparisons | 
 | [CLV Analysis](https://github.com/monikase/Data-Analytics-Projects/tree/a719671e5eeb623d71f52cc9e7c76c83ff55c8ac/9-Customer%20Life%20Time%20Value%20(CLV)) | April 2025 | SQL, BigQuery, Google Spreadsheet | E-Commerce Shop CLV Analysis |
 | [RFM Segmentation](https://github.com/monikase/Data-Analytics-Projects/tree/a719671e5eeb623d71f52cc9e7c76c83ff55c8ac/8-RFM%20Segments) | April 2025 | SQL, BigQuery, PowerBI | Customer Segmentation Analysis Dashboard
 | [Funnel Analysis](https://github.com/monikase/Data-Analytics-Projects/tree/a719671e5eeb623d71f52cc9e7c76c83ff55c8ac/7-Funnel%20Analysis) | March 2025 | SQL, BigQuery, Google Spreadsheet | Tracking Online Shopping |
