@@ -2,6 +2,8 @@
 
 This is a showcase of my data analytics projects, highlighting key insights from my studies at Turing College.
 
+</br>
+
 | Project Link | Date | Tools | Project Description |
 | :-------: | :-----: | :-----: | ----- |
 | [A/B Testing](https://github.com/monikase/Data-Analytics-Projects/tree/566f15db7b4f46604da88f260a6e4e56348dabdf/_10-AB%20Testing) | May 2025 | SQL, Evan Miller T-test calculator, Spreadsheet | Project analyzes the effectiveness of three fast-food marketing campaigns using A/B testing and statistical comparisons | 
