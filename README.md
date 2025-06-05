@@ -1,6 +1,6 @@
 ## 📈 Monika's Portfolio
 
-Here I document a summary of my data analytics projects, during my study time at Turing College.
+This is a showcase of my data analytics projects, highlighting key insights and achievements from my studies at Turing College.
 
 | Project Link | Date | Tools | Project Description |
 | :-------: | :-----: | :-----: | ----- |
