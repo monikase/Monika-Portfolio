@@ -1,6 +1,6 @@
 ## 📈 Monika's Portfolio
 
-Here I document a summary of my projects in the data field.
+Here I document a summary of my data analytics projects, during my study time at Turing College.
 
 | Project Link | Date | Tools | Project Description |
 | :-------: | :-----: | :-----: | ----- |
