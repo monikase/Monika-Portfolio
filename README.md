@@ -2,11 +2,11 @@
 
 Here I document a summary of my projects in the data field.
 
-| Project Link | Date | Tools | Project Description & Files |
+| Project Link | Date | Tools | Project Description |
 | :-------: | :-----: | :-----: | ----- |
-| [CLV Analysis](https://docs.google.com/spreadsheets/d/1ueH-u6Eb1cN0sOQPfY_6twDhc1cbGF-lHEsU8g3iTnw/edit?usp=sharing) | April 2025 | SQL, BigQuery, Google Spreadsheet | [E-Commerce Shop CLV Analysis](https://github.com/monikase/Data-Analytics-Projects/blob/484bf88470df62e231a399dd09b0e3440fcae8b0/9-Customer%20Life%20Time%20Value%20(CLV)/README.md) |
-| [RFM Segmentation](https://github.com/monikase/Data-Analytics-Projects/blob/main/8-RFM%20Segments/1_Task.md) | April 2025 | SQL, BigQuery, PowerBI | [Customer Segmentation Analysis Dashboard](https://github.com/monikase/Data-Analytics-Projects/blob/main/8-RFM%20Segments/1_Task.md)
-| [Funnel Analysis](https://docs.google.com/spreadsheets/d/1RABDCjpsUpbF2IJrgsjek5JKrH36rfo995JiZcc2lHA/edit?usp=sharing) | March 2025 | SQL, BigQuery, Google Spreadsheet | [Tracking Online Shopping](https://github.com/monikase/Data-Analytics-Projects/blob/b8178e85a9931511af2dad5ed202634ffa54a206/7-Funnel%20Analysis/1_Task.md) |
+| [CLV Analysis](https://github.com/monikase/Data-Analytics-Projects/tree/a719671e5eeb623d71f52cc9e7c76c83ff55c8ac/9-Customer%20Life%20Time%20Value%20(CLV)) | April 2025 | SQL, BigQuery, Google Spreadsheet | E-Commerce Shop CLV Analysis |
+| [RFM Segmentation](https://github.com/monikase/Data-Analytics-Projects/tree/a719671e5eeb623d71f52cc9e7c76c83ff55c8ac/8-RFM%20Segments) | April 2025 | SQL, BigQuery, PowerBI | Customer Segmentation Analysis Dashboard
+| [Funnel Analysis](https://github.com/monikase/Data-Analytics-Projects/tree/a719671e5eeb623d71f52cc9e7c76c83ff55c8ac/7-Funnel%20Analysis) | March 2025 | SQL, BigQuery, Google Spreadsheet | Tracking Online Shopping |
 | [Retention, Cohort & Churn](https://github.com/monikase/Data-Analytics-Projects/tree/a719671e5eeb623d71f52cc9e7c76c83ff55c8ac/6-Retention%2C%20Cohorts%20%26%20Churn) | February 2025 | SQL, BigQuery, Google Spreadsheet | This analysis focuses on tracking weekly subscription cohorts over six weeks to measure retention and churn patterns |
 | [Presentation & Dashboard](https://github.com/monikase/Data-Analytics-Projects/tree/a719671e5eeb623d71f52cc9e7c76c83ff55c8ac/5-Soft%20Skills%20PowerBI) | January 2025 | SQL, BigQuery, PowerBI, Visme | AdventureWorks business performance dashboard to support Executive Overview and Sales Analysis presentations |
 | [Power BI Report](https://github.com/monikase/Data-Analytics-Projects/tree/a719671e5eeb623d71f52cc9e7c76c83ff55c8ac/4-Visualizing%20Data%20Using%20Power%20BI) | December 2024 | SQL, BigQuery, PowerBI | Analyzing Adventure Works dataset, extracting insights to assess business performance, sales trends, and revenue growth while identifying areas for optimization and strategic decision-making. |
