@@ -6,7 +6,7 @@ This is a showcase of my data analytics projects, highlighting key insights from
 
 | Project Link | Date | Tools | Project Description |
 | :-------: | :-----: | :-----: | ----- |
-| [A/B Testing](https://github.com/monikase/Data-Analytics-Projects/tree/566f15db7b4f46604da88f260a6e4e56348dabdf/_10-AB%20Testing) | *May 2025* | SQL, Evan Miller T-test calculator, Spreadsheet | Project analyzes the effectiveness of three fast-food marketing campaigns using A/B testing and statistical comparisons | 
+| [A/B Testing](https://github.com/monikase/Data-Analytics-Projects/tree/8dd6f4deac3917103697914938186b81db71092b/_10-AB%20Testing) | *May 2025* | SQL, Evan Miller T-test calculator, Spreadsheet | Project analyzes the effectiveness of three fast-food marketing campaigns using A/B testing and statistical comparisons | 
 | [CLV Analysis](https://github.com/monikase/Data-Analytics-Projects/tree/8dd6f4deac3917103697914938186b81db71092b/9-Customer%20Life%20Time%20Value%20(CLV)) | *April 2025* | SQL, BigQuery, Google Spreadsheet | E-Commerce Shop CLV Analysis |
 | [RFM Segmentation](https://github.com/monikase/Data-Analytics-Projects/tree/8dd6f4deac3917103697914938186b81db71092b/8-RFM%20Segments) | *April 2025* | SQL, BigQuery, PowerBI | RFM segmentation analysis to uncover buying patterns, identify key customer groups, and recommend strategies for improving engagement. |
 | [Funnel Analysis](https://github.com/monikase/Data-Analytics-Projects/tree/8dd6f4deac3917103697914938186b81db71092b/7-Funnel%20Analysis) | *March 2025* | SQL, BigQuery, Google Spreadsheet | Online shopping behavior analysis, emphasizing user interactions, drop-off rates, conversion trends, and strategies for improved sales. |
