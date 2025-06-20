@@ -6,6 +6,7 @@ This is a showcase of my data analytics projects, highlighting key insights from
 
 | Project Link | Date | Tools | Project Description |
 | :-------: | :-----: | :-----: | ----- |
+| [Python Chess Program](https://github.com/monikase/Data-Analytics-Projects/tree/main/_11-Chess%20Assignment) | *June 2025* | Python, VS Code, Google Colab | Program analyzes a white chess piece's captures and attack squares. |
 | [A/B Testing](https://github.com/monikase/Data-Analytics-Projects/tree/main/_10-AB%20Testing) | *May 2025* | SQL, Evan Miller T-test calculator, Spreadsheet | Project analyzes the effectiveness of three fast-food marketing campaigns using A/B testing and statistical comparisons | 
 | [CLV Analysis](https://github.com/monikase/Data-Analytics-Projects/tree/main/9-Customer%20Life%20Time%20Value%20(CLV)) | *April 2025* | SQL, BigQuery, Google Spreadsheet | E-Commerce Shop CLV Analysis |
 | [RFM Segmentation](https://github.com/monikase/Data-Analytics-Projects/tree/main/8-RFM%20Segments) | *April 2025* | SQL, BigQuery, PowerBI | RFM segmentation analysis to uncover buying patterns, identify key customer groups, and recommend strategies for improving engagement. |
