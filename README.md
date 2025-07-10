@@ -7,7 +7,7 @@ Recent Portfolio Projects
 
 | Project Link | Date | Tools | Project Description |
 | :-------: | :-----: | :-----: | ----- |
-
+| [Spotify Top 50](https://github.com/monikase/Data-Analytics-Projects/blob/main/_12-Data%20Processing%20with%20Pandas/README.md) | *July 2025* | Python, Pandas, Jupyter Notebook | Analyzes dominant genres, tracks and their features in 2020's Spotify list. |
 
 </br>
 
