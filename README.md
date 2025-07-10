@@ -2,7 +2,6 @@
 
 This is a showcase of my data analytics projects.
 
-</br>
 
 ### Recent Portfolio Projects
 
