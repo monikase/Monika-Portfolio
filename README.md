@@ -1,6 +1,6 @@
 ## 📈 Monika's Portfolio
 
-This is a showcase of my data analytics projects, highlighting key insights from my studies at Turing College.
+This is a showcase of my data analytics projects.
 
 </br>
 Recent Portfolio Projects
@@ -8,6 +8,10 @@ Recent Portfolio Projects
 | Project Link | Date | Tools | Project Description |
 | :-------: | :-----: | :-----: | ----- |
 
+
+</br>
+
+Projects, highlighting key insights from my studies at Turing College.
 
 </br>
 
