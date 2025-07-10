@@ -3,6 +3,13 @@
 This is a showcase of my data analytics projects, highlighting key insights from my studies at Turing College.
 
 </br>
+Recent Portfolio Projects
+
+| Project Link | Date | Tools | Project Description |
+| :-------: | :-----: | :-----: | ----- |
+
+
+</br>
 
 | Project Link | Date | Tools | Project Description |
 | :-------: | :-----: | :-----: | ----- |
