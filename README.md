@@ -3,7 +3,10 @@
 This is a showcase of my data analytics projects.
 
 </br>
-Recent Portfolio Projects
+
+#### Recent Portfolio Projects
+
+</br>
 
 | Project Link | Date | Tools | Project Description |
 | :-------: | :-----: | :-----: | ----- |
@@ -11,7 +14,7 @@ Recent Portfolio Projects
 
 </br>
 
-Projects, highlighting key insights from my studies at Turing College.
+#### Projects, highlighting my skillset from my studies at Turing College.
 
 </br>
 
