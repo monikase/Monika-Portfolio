@@ -9,7 +9,8 @@ This is a showcase of my data analytics projects.
 
 | Project Link | Date | Tools | Project Description |
 | :-------: | :-----: | :-----: | ----- |
-| [Spotify Top 50](https://github.com/monikase/Data-Analytics-Projects/blob/main/_12-Data%20Processing%20with%20Pandas/README.md) | *July 2025* | Python, Pandas, Jupyter Notebook | Analyzes dominant genres, tracks and their features in 2020's Spotify list. |
+| [Vinted](https://github.com/monikase/Data-Analytics-Projects/blob/main/_13%20EDA%20Vinted/Vinted.ipynb) | *July 2025* | Python, Pandas, Jupyter Notebook | Shipping Delays and Non-Shipment Cancellations on Vinted |
+| [Spotify Top 50](https://github.com/monikase/Data-Analytics-Projects/blob/main/_12-Data%20Processing%20with%20Pandas/README.md) | *June 2025* | Python, Pandas, Jupyter Notebook | Analyzes dominant genres, tracks and their features in 2020's Spotify list. |
 
 </br>
 
