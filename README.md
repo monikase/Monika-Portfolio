@@ -9,6 +9,7 @@ This is a showcase of my data analytics projects.
 
 | Project Link | Date | Tools | Project Description |
 | :-------: | :-----: | :-----: | ----- |
+| [Customer Retention & Revenue Analysis](https://github.com/monikase/Data-Analytics-Projects/blob/main/_18_Online_Retail_Analysis/README.md) | *January 2026* | SQL, Python, Power BI | Analysis of online retail data focusing on customer retention, cohort behavior, and RFM segmentation |
 | [E-commerce Market Intelligence](https://github.com/monikase/Data-Analytics-Projects/blob/main/_17_Ecommerce_Intelligence/notebooks/amazon_data_analysis.ipynb) | *November 2025* | Python, Pandas, DuckDB, SQL, Jupyter Notebook | Generate market intelligence insights using web-scraped Amazon data. |
 | [Machine Learning - CHD Prediction](https://github.com/monikase/Data_Science/blob/main/03_CHD_Prediction/README.md) | *October 2025* | Python, Pandas, Jupyter Notebook | Logistic Regression: Cardiovascular Disease Prediction |
 | [E-Commerce Performance & Funnel Analysis](https://github.com/monikase/Data-Analytics-Projects/blob/main/_15_E-Commerce_Performance_%26_Funnel_Analysis/Analysis.md) | *September 2025* | BigQuery, SQL, Power BI | Understanding user behavior and purchase dynamics within an e-commerce web platform |
