@@ -3,7 +3,7 @@
 This is a showcase of my data analytics projects.
 
 
-### Recent Portfolio Projects
+### Recent Projects
 
 </br>
 
